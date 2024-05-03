@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hi There! 👋</h1>
 
-<!--
-**Jason02gabriel/Jason02gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://br.linkedin.com/in/jason-gabriel-ara%C3%BAjo-da-silva-b7a89b1a2)
+[![Gmail Badge](https://img.shields.io/badge/-j.gabrielaraujodasilva@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:j.gabrielaraujodasilva@gmail.com)](mailto:j.gabrielaraujodasilva@gmail.com)
 
-Here are some ideas to get you started:
+<img align="right" alt="Code image" src="./coding2.png"  width="300px"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My name is Jason Gabriel
+(Java | Spring Boot | Python | Javascript | HTML | CSS ) 🚀
+- 👩‍💻 Backend developer intern @[TRE-PI](https://www.tre-pi.jus.br/)
+- 🎓 Systems analysis and development student @ [ESTACIO](https://estacio.br/)
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
+
+<div align="left">
+  
+  
+ </div>
