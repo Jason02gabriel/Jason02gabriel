@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://br.linkedin.com/in/jason-gabriel-ara%C3%BAjo-da-silva-b7a89b1a2)
 [![Gmail Badge](https://img.shields.io/badge/-j.gabrielaraujodasilva@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:j.gabrielaraujodasilva@gmail.com)](mailto:j.gabrielaraujodasilva@gmail.com)
 
-<img align="right" alt="Code image" src="./coding2.png"  width="300px"/>
+<img align="right" alt="Code image" src="./coding2.png"  width="250px"/>
 
 ## My name is Jason Gabriel
 (Java | Spring Boot | Python | Javascript | HTML | CSS ) 🚀
