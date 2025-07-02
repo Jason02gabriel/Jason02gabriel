@@ -7,8 +7,8 @@
 
 ## My name is Jason Gabriel
 (Java | Spring Boot | Python | Javascript | HTML | CSS ) 🚀
-- 👩‍💻 Backend developer intern @[TRE-PI](https://www.tre-pi.jus.br/)
-- 🎓 Systems analysis and development student @ [ESTACIO](https://estacio.br/)
+- 👩‍💻 Backend developer 
+- 🎓 Graduated in systems analysis and development @ [ESTACIO](https://estacio.br/)
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
 
