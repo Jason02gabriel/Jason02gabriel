@@ -8,7 +8,7 @@
 ## My name is Jason Gabriel
 (Java | Spring Boot | Python | Javascript | HTML | CSS ) 🚀
 - 👩‍💻 Backend developer 
-- 🎓 Graduated in systems analysis and development @ [ESTACIO](https://estacio.br/)
+- 🎓 Graduated in systems analysis and development
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
 
